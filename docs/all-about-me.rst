@@ -2,10 +2,8 @@
 All about me
 ############
 
-I'm Daniele Procida, a Django user and developer.
+Cesmus documentation
+====================
 
-I've contributed to:
+It contains nothing, but maybe one day it will.
 
-*   django CMS
-*   Arkestra
-*   Django
